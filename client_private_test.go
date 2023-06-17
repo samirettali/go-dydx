@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	dydx "github.com/go-numb/go-dydx"
-	"github.com/go-numb/go-dydx/helpers"
-	"github.com/go-numb/go-dydx/private"
-	"github.com/go-numb/go-dydx/realtime"
-	"github.com/go-numb/go-dydx/types"
+	dydx "github.com/samirettali/go-dydx"
+	"github.com/samirettali/go-dydx/helpers"
+	"github.com/samirettali/go-dydx/private"
+	"github.com/samirettali/go-dydx/realtime"
+	"github.com/samirettali/go-dydx/types"
 	"github.com/stretchr/testify/assert"
 )
 

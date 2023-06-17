@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-numb/go-dydx/helpers"
+	"github.com/samirettali/go-dydx/helpers"
 )
 
 func (p *Public) get(endpoint string, params url.Values) ([]byte, error) {

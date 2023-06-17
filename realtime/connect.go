@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/buger/jsonparser"
-	"github.com/go-numb/go-dydx/private"
-	"github.com/go-numb/go-dydx/public"
+	"github.com/samirettali/go-dydx/private"
+	"github.com/samirettali/go-dydx/public"
 
 	"github.com/gorilla/websocket"
 )
