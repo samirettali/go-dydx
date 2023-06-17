@@ -11,7 +11,7 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.7.0
 	github.com/umbracle/ethgo v0.1.0
-	github.com/yanue/starkex v0.0.0-20211122094927-61a9aa6b8d97
+	github.com/yanue/starkex v0.0.0-20230614033702-2d7a3a7e494e
 )
 
 require (
