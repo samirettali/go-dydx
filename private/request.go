@@ -7,8 +7,7 @@ import (
 	"net/url"
 
 	"github.com/samirettali/go-dydx/helpers"
-
-	"github.com/yanue/starkex"
+	"github.com/tpunt/starkex"
 )
 
 func (p *Private) GetUsers() (*UsersResponse, error) {

@@ -11,7 +11,6 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.7.0
 	github.com/umbracle/ethgo v0.1.0
-	github.com/yanue/starkex v0.0.0-20230614033702-2d7a3a7e494e
 )
 
 require (
@@ -23,6 +22,7 @@ require (
 	github.com/klauspost/cpuid v1.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
+	github.com/tpunt/starkex v0.0.0-20230603113350-aee26244c267 // indirect
 	github.com/umbracle/fastrlp v0.0.0-20211229195328-c1416904ae17 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.4.0 // indirect
